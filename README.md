@@ -14,3 +14,10 @@ DAY 6 Sales Trend Analysis Using Aggregations
 <img width="1920" height="1080" alt="Screenshot 2026-06-11 175214" src="https://github.com/user-attachments/assets/d39675bc-b576-4d0f-9408-ac7055f9a920" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-11 175235" src="https://github.com/user-attachments/assets/08113fb9-d8fa-42ef-8517-2c23875ae857" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-11 175255" src="https://github.com/user-attachments/assets/aa292a8e-680a-41ef-a9f6-4465ffeed5a3" />
+
+HR Analytics - Predict Employee Attrition project
+<img width="1311" height="728" alt="image" src="https://github.com/user-attachments/assets/25cf305c-ea41-4487-a588-a0ca8e2f9f78" />
+<img width="1305" height="742" alt="image" src="https://github.com/user-attachments/assets/ddd22552-413f-40eb-86e9-4d9737d9db11" />
+<img width="1307" height="666" alt="image" src="https://github.com/user-attachments/assets/69b6853c-702e-4d2a-b7f1-be68c524bf69" />
+SHAP Analysis
+<img width="457" height="680" alt="image" src="https://github.com/user-attachments/assets/30449573-75be-455d-8c48-05411ed295ed" />
