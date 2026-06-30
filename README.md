@@ -29,7 +29,6 @@ Healthcare_NoShow_Prediction
 <img width="616" height="470" alt="image" src="https://github.com/user-attachments/assets/bb2e3605-7801-41ae-9d0e-8e1e307ab1f2" />
 <img width="616" height="470" alt="image" src="https://github.com/user-attachments/assets/b67a9c8e-e29a-4c7b-be96-de0544b1c686" />
 <img width="693" height="470" alt="image" src="https://github.com/user-attachments/assets/66c9dc6e-83a0-4fb9-99c5-d593672feddf" />
-<img width="693" height="470" alt="image" src="https://github.com/user-attachments/assets/ad45ac01-ee2b-4494-8c36-8fb5cb204b5a" />
 <img width="872" height="475" alt="image" src="https://github.com/user-attachments/assets/110fb08b-4537-4aa6-a11c-33113f699a49" />
 <img width="848" height="542" alt="image" src="https://github.com/user-attachments/assets/243f7dc8-9475-4ee7-a207-6772e2949959" />
 <img width="688" height="488" alt="image" src="https://github.com/user-attachments/assets/3e883fd5-20d4-42b7-b705-e5dbfb47cc19" />
@@ -39,3 +38,7 @@ Healthcare_NoShow_Prediction
 <img width="930" height="547" alt="image" src="https://github.com/user-attachments/assets/b3e65c6e-f0a6-4cfe-9bf7-fceb22201cec" />
 <img width="613" height="547" alt="image" src="https://github.com/user-attachments/assets/9d6f5f76-421f-443c-a670-1e841d5a5fd2" />
 <img width="1653" height="790" alt="image" src="https://github.com/user-attachments/assets/6d385832-d021-4fed-b008-4f0e9deb3811" />
+<img width="1291" height="720" alt="Screenshot 2026-06-29 221215" src="https://github.com/user-attachments/assets/ed849601-0bee-40e5-89ff-f5c0d6a88ba3" />
+<img width="1312" height="712" alt="Screenshot 2026-06-29 221433" src="https://github.com/user-attachments/assets/a31ae863-668a-4210-bb21-0a9cbf0e86b2" />
+<img width="1312" height="712" alt="Screenshot 2026-06-29 221433" src="https://github.com/user-attachments/assets/2c74f984-348b-4706-9fd6-58929b9f9256" />
+
